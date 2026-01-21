@@ -1,10 +1,10 @@
 # Olá! Eu sou o Bruno 👋
 
-Bem-Vindo ao meu GitHub! Atualmente estou cursando Análise e Desenvolvimento de Sistemas no SENAI. 
+Bem-Vindo ao meu GitHub! Sou recentemente formado em Análise e Desenvolvimento de Sistemas no SENAI GASPAR RICARDO JUNIOR. 
 
 ## 🚀 Sobre mim
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔭 Atualmente trabalhando com React e Python
+- 📚 Graduado de Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente trabalhando como Engenheiro de Dados na 2RP NET
 
 ## 📊 Linguagens mais usadas:
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSakamoto&layout=compact&langs_count=6&theme=radical)
