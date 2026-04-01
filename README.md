@@ -7,7 +7,6 @@ Bem-Vindo ao meu GitHub! Sou recentemente formado em Análise e Desenvolvimento 
 - 🔭 Atualmente trabalhando como Engenheiro de Dados na 2RP NET
 
 ## 📊 Linguagens mais usadas:
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSakamoto&layout=compact&langs_count=6&theme=radical)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -22,6 +21,25 @@ Bem-Vindo ao meu GitHub! Sou recentemente formado em Análise e Desenvolvimento 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
+
+<p>
+<p>
+
+<div align="center"> 
+<p>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoSakamoto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunoSakamoto&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
+</p>
+
+</div>
+
 
 ## 📫 Como me encontrar:
 - [LinkedIn](www.linkedin.com/in/bruno-a-sakamoto)
